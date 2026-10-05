@@ -30,7 +30,7 @@ BSc in Management & Digital Innovation (University of London / LSE) with a stron
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ei-thinzar-swe))
-- **Email:** [Amylynn.swe@gmail.com](mailto:Amylynn.swe@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/ei-thinzar-swe](https://www.linkedin.com/in/ei-thinzar-swe)]
+- **Email:** [eithinzarswe03@gmail.com](mailto:eithinzarswe03@gmail.com)
 
 ---
