@@ -1,4 +1,4 @@
-# Ei-Thinzar-Swe
+# [Ei-Thinzar-Swe](https://github.com/ei-thinzar-swe)
 BSc in Management &amp; Digital Innovation graduate passionate about data analytics, customer behavior modeling, and business intelligence.
 # Hi there, I'm Ei Thinzar (Amy) Swe 👋
 
